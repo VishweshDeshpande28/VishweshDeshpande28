@@ -151,7 +151,7 @@
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYsy3kx7z8XZY3WT384S1d72KIiKuh8iqlg&usqp=CAU"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
       alt="Angular"
       width="40"
       height="40"
@@ -159,21 +159,6 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=vishweshdeshpande28&show_icons=true&locale=en&layout=compact"
-    alt="vishweshdeshpande28"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=vishweshdeshpande28&show_icons=true&locale=en"
-    alt="vishweshdeshpande28"
-  />
-</p>
 
 <p>
   <img
