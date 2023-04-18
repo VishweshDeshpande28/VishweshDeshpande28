@@ -24,7 +24,7 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **ReactJS, MongoDB** - 📫 How to reach me
+- 🌱 I’m currently learning **React & Angular** - 📫 How to reach me
 **vishwesh.deshpande28@gmail.com** - ⚡ Fun fact **I hate Mathematics.**
 
 <h3 align="left">Connect with me:</h3>
